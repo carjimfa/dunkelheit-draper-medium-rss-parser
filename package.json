@@ -1,0 +1,19 @@
+{
+  "name": "dunkelheit-draper-medium-rss-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "path": "^0.12.7",
+    "rss-parser": "^3.12.0",
+    "serve-favicon": "^2.5.0",
+    "uuid": "^8.3.2"
+  }
+}

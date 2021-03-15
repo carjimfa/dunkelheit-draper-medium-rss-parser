@@ -3,6 +3,9 @@ var http = require('http')
 var app = express()
 let Parser = require('rss-parser');
 let parser = new Parser();
+var cors = require('cors');
+
+var cors = require('cors');
 
 app.set('port', process.env.PORT || 3000)
 
